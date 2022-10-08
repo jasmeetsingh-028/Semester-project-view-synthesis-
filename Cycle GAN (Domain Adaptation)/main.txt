@@ -1,0 +1,1 @@
+This folder is for Cycle GAN which will help for the Domain Adaptation part of the pipeline.
